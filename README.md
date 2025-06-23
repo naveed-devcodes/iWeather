@@ -25,7 +25,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/Arham-Dev1/iWeather.git
+$ git clone https://github.com/Naveed-Devcodes/iWeather.git
 
 # Go into the repository
 $ cd React-interview-app
